@@ -1,6 +1,6 @@
-# Contributing to Perform10
+# Contributing to Virtualoom : AI-Powered Online Learning & Teaching Platform
 
-Thank you for your interest in contributing to Perform10! This document provides guidelines and instructions for contributing to this project.
+Thank you for your interest in contributing to Virtualoom! This document provides guidelines and instructions for contributing to this project.
 
 ## Code of Conduct
 
@@ -147,4 +147,4 @@ Example: `feat(auth): add email verification`
 
 ## License
 
-By contributing to Perform10, you agree that your contributions will be licensed under the project's MIT license.
+By contributing to Virtualoom, you agree that your contributions will be licensed under the project's MIT license.
