@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Perform10 is currently in active development. We provide security updates for the following versions:
+Virtualoom is currently in active development. We provide security updates for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,7 +10,7 @@ Perform10 is currently in active development. We provide security updates for th
 
 ## Reporting a Vulnerability
 
-We take security issues in Perform10 seriously. We appreciate your efforts to responsibly disclose your findings.
+We take security issues in Virtualoom seriously. We appreciate your efforts to responsibly disclose your findings.
 
 To report a security vulnerability, please follow these steps:
 
@@ -26,7 +26,7 @@ To report a security vulnerability, please follow these steps:
 
 ## Security Best Practices for Deployment
 
-When deploying Perform10, consider the following security best practices:
+When deploying Virtualoom, consider the following security best practices:
 
 ### API Keys and Secrets
 
