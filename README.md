@@ -1,10 +1,10 @@
-# Perform10
+# Virtualoom : AI-Powered Online Learning & Teaching Platform
 
 A comprehensive learning and communication platform with integrated AI-powered assessment tools.
 
 ## Overview
 
-Perform10 is a modern web application that combines real-time communication capabilities with powerful assessment tools. The platform enables users to create channels, share files, generate different types of assessments (quizzes, coding challenges, writing tasks), and evaluate performance through an intuitive interface.
+Virtualoom is a modern web application that combines real-time communication capabilities with powerful assessment tools. The platform enables users to create channels, share files, generate different types of assessments (quizzes, coding challenges, writing tasks), and evaluate performance through an intuitive interface.
 
 ## Key Features
 
@@ -36,7 +36,7 @@ Perform10 is a modern web application that combines real-time communication capa
 ## Project Structure
 
 ```
-perform10/
+Virtualoom/
 ├── backend/           # Express server
 │   ├── controllers/   # API route controllers
 │   ├── models/        # MongoDB models
@@ -76,7 +76,7 @@ perform10/
 3. Create a `.env` file with the following variables:
    ```
    # Database
-   MONGODB_URI=mongodb://localhost:27017/perform5
+   MONGODB_URI=mongodb://localhost:27017/your-database-name
 
    # API Keys (replace with your own)
    GEMINI_API_KEY=your_gemini_api_key
@@ -214,10 +214,10 @@ The MongoDB database uses a well-structured schema with relationships between:
 ### Development Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/perform10.git
+git clone https://github.com/your-username/my-repo-name.git
 
 # Install all dependencies (both backend and frontend)
-cd perform10
+cd your-folder-name
 npm run install-all
 
 # Start development servers
